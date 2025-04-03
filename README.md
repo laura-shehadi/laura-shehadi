@@ -3,7 +3,9 @@
 Hi! I’m Laura, a Cognitive Science student at the University of Toronto, focusing on Computational Cognition with a minor in Data Science. I’m interested in how programming, AI, and data come together to help us understand how people think and interact with technology.
 
 This GitHub is a portfolio of my computer science projects, including creative tools, logic-based solvers, and data-driven work. 
+
 **I’m continuously updating this page as I build new things — stay tuned 👀**
+
 
 
 ---
