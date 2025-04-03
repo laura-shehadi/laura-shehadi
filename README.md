@@ -9,21 +9,37 @@ This GitHub is a portfolio of my computer science projects, including creative t
 
 ## 🧩 Projects
 
+- **Raccoon Raiders**  
+  A 2D object-oriented Python game featuring custom class hierarchies, modular architecture, and interactive gameplay mechanics.
+
 - **Pixel Art Drawing Tool**  
-  A drawing application built using a grid-based UI to create pixel art. Designed with user-friendly interaction and smooth rendering.
+  A grid-based drawing application with customizable canvas size and pixel interaction. Developed with a focus on intuitive UI design, smooth rendering, and efficient state tracking.
 
 - **Automated Puzzle Solver**  
-  Solves logic puzzles using search algorithms like BFS and DFS. Written with object-oriented principles in Python.
+  A Python program that solves logic-based puzzles using breadth-first and depth-first search algorithms. Emphasizes recursion, graph traversal, and object-oriented structure.
 
 - **Toronto Bike Share Analysis**  
-  A project focused on data manipulation, query functions, and algorithmic thinking using real-world bike share data.
+  A data-driven project involving parsing, querying, and mutating large-scale datasets. Implemented algorithmic functions to support real-time analysis and user-defined filters.
 
----
 
-## 🛠️ Tools & Skills
 
-`Python` `Java` `Git` `HTML/CSS` `Jupyter Notebook`  
-`Data Structures` `OOP` `Algorithm Design`
+### 💻 Languages & Tools
+
+`Python` `Java` `HTML/CSS` `JavaScript` `Git`  
+`Jupyter Notebook` `VS Code` `Arduino` `Android Development`
+
+
+
+
+### 🧠 Concepts & Techniques
+
+`Object-Oriented Programming` `Class Design & Inheritance` `Recursion`  
+`Abstract Data Types (ADTs)` `Linked Structures` `Search Algorithms (BFS, DFS)`  
+`Encapsulation` `Algorithm Design` `Data Structures`  
+`Memory Models (Stack vs. Heap, Alias vs. Copy)`  
+`User-Centered Design` `Data Analysis` `Modular Architecture`
+
+
 
 ---
 
