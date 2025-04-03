@@ -46,8 +46,7 @@ This GitHub is a portfolio of my computer science projects, including creative t
 
 ---
 
-> ⚠️ These projects were created for academic and/or purposes. Please do not reuse or copy any code.
-
-> 🚫 Code is not publicly viewable due to academic policy.  
-To request access, please contact me at laura.shehadi27@gmail.com.
+> ⚠️ Code for academic projects is not publicly viewable due to course policies.  
+To request access for viewing purposes only, contact me at laura.shehadi27@gmail.com.  
+These projects were created for academic and/or creative purposes. Please do not reuse or copy any code
 
