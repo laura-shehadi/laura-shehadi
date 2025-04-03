@@ -1,8 +1,9 @@
 # 👩‍💻 Laura Shehadi
 
-Hi! I’m Laura — a Cognitive Science student at the University of Toronto, focusing on Computational Cognition with a minor in Data Science. I’m interested in how programming, AI, and data come together to help us understand how people think and interact with technology.
+Hi! I’m Laura, a Cognitive Science student at the University of Toronto, focusing on Computational Cognition with a minor in Data Science. I’m interested in how programming, AI, and data come together to help us understand how people think and interact with technology.
 
-This GitHub is a portfolio of my computer science projects, including creative tools, logic-based solvers, and data-driven work. **I’m continuously updating this page as I build new things — stay tuned 👀**
+This GitHub is a portfolio of my computer science projects, including creative tools, logic-based solvers, and data-driven work. 
+**I’m continuously updating this page as I build new things — stay tuned 👀**
 
 
 ---
@@ -17,13 +18,13 @@ This GitHub is a portfolio of my computer science projects, including creative t
 
 - **Automated Puzzle Solver**  
   A Python program that solves logic-based puzzles using breadth-first and depth-first search algorithms. Emphasizes recursion, graph traversal, and object-oriented structure.
-
+<!-- 
 - **Toronto Bike Share Analysis**  
   A data-driven project involving parsing, querying, and mutating large-scale datasets. Implemented algorithmic functions to support real-time analysis and user-defined filters.
+-->
 
 
-
-### 💻 Languages & Tools
+## 💻 Languages & Tools
 
 `Python` `Java` `HTML/CSS` `JavaScript` `Git`  
 `Jupyter Notebook` `VS Code` `Arduino` `Android Development`
@@ -31,7 +32,7 @@ This GitHub is a portfolio of my computer science projects, including creative t
 
 
 
-### 🧠 Concepts & Techniques
+## 🧠 Concepts & Techniques
 
 `Object-Oriented Programming` `Class Design & Inheritance` `Recursion`  
 `Abstract Data Types (ADTs)` `Linked Structures` `Search Algorithms (BFS, DFS)`  
