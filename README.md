@@ -28,7 +28,7 @@ This GitHub is a portfolio of my computer science projects, including creative t
 
 ## 💻 Languages & Tools
 
-`Python` `Java` `HTML/CSS` `JavaScript` `Git`  
+`Python` `Java` `HTML/CSS` `JavaScript` `Git` `PyClarion` 
 `Jupyter Notebook` `VS Code` `Arduino` `Android Development`
 
 
