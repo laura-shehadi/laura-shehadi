@@ -10,7 +10,7 @@ This GitHub is a portfolio of my computer science and data projects, including c
 
 ## 🧩 Projects
 
-### 🎭 Are the Arts Dying? Data Analysis
+### 🎭 Are the Arts Dying? A Data Analysis Project
 
 A data analysis project exploring trends in attendance, performances, and revenue for Canadian opera and musical theatre companies from 2014 to 2024.
 
