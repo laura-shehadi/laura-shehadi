@@ -14,7 +14,7 @@ This GitHub is a portfolio of my computer science and data projects, including c
 
 A data analysis project exploring trends in attendance, performances, and revenue for Canadian opera and musical theatre companies from 2014 to 2024.
 
-🔗 [View Project]([https://github.com/your-username/are-the-arts-dying-data-analysi](https://github.com/laura-shehadi/are-the-arts-dying-data-analysis))
+🔗 [View Project](https://github.com/laura-shehadi/are-the-arts-dying-data-analysis)
 
 ---
 
