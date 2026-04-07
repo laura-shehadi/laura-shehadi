@@ -52,13 +52,8 @@ A data-driven project involving parsing, querying, and mutating large-scale data
 `Memory Models (Stack vs. Heap, Alias vs. Copy)`
 `User-Centered Design` `Data Analysis` `Modular Architecture` `SQL & Databases`
 
----
 
-## 📬 Contact
+<br>
 
-📧 [laura.shehadi27@gmail.com](mailto:laura.shehadi27@gmail.com)
-
----
-
-> ⚠️ Code for academic projects is publicly viewable for portfolio purposes only.
-> No permission is granted to reuse, modify, or distribute this code.
+--- 
+> ⚠️ Code for academic projects is not publicly viewable due to course policies. To request access for viewing purposes only, contact me at [laura.shehadi27@gmail.com](mailto:laura.shehadi27@gmail.com). These projects were created for academic and/or creative purposes. Please do not reuse or copy any code
