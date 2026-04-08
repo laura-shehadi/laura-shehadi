@@ -4,11 +4,19 @@ Hi! I’m Laura, a Cognitive Science student at the University of Toronto, focus
 
 This GitHub is a portfolio of my computer science and data projects, including creative tools, logic-based solvers, and data-driven analysis.
 
-🚀 **I’m continuously updating this page as I build new things — stay tuned 👀**
+🚀 **I’m continuously updating this page as I build new things, so stay tuned! 👀**
 
 ---
 
 ## 🧩 Projects
+
+### 🧠 Computational Model of Free Recall
+
+A computational cognitive modeling project simulating the **serial position effect** in human memory. The model represents memory using activation-based dynamics, incorporating decay, rehearsal, interference, and probabilistic retrieval to reproduce the characteristic U-shaped recall curve.
+
+🔗 [View Project](https://github.com/laura-shehadi/computational-model-of-free-recall)
+
+---
 
 ### 🎭 Are the Arts Dying? A Data Analysis Project
 
@@ -50,10 +58,10 @@ A data-driven project involving parsing, querying, and mutating large-scale data
 `Abstract Data Types (ADTs)` `Linked Structures` `Search Algorithms (BFS, DFS)`
 `Encapsulation` `Algorithm Design` `Data Structures`
 `Memory Models (Stack vs. Heap, Alias vs. Copy)`
-`User-Centered Design` `Data Analysis` `Modular Architecture` `SQL & Databases`
-
+`User-Centered Design` `Data Analysis` `Modular Architecture` `SQL & Databases` `Computational Modeling`
 
 <br>
 
---- 
+---
+
 > ⚠️ Code for academic projects is not publicly viewable due to course policies. To request access for viewing purposes only, contact me at [laura.shehadi27@gmail.com](mailto:laura.shehadi27@gmail.com). These projects were created for academic and/or creative purposes. Please do not reuse or copy any code
